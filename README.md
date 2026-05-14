@@ -20,4 +20,4 @@ An interactive and visually rich IPL Analysis Dashboard built using Power BI to 
 -Which season or year performed best using year-wise filtering?
 -What are the comparative batting and bowling performances across teams and players?
 
--Dashboard Interaction <a herf=" ">View Dashboard</a>
+-Dashboard Interaction <a herf="https://github.com/pallavibodke/IPL-Dashboard/blob/main/IPL%20Dashboard.jpg">View Dashboard</a>
