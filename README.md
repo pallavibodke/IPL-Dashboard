@@ -21,3 +21,10 @@ An interactive and visually rich IPL Analysis Dashboard built using Power BI to 
 -What are the comparative batting and bowling performances across teams and players?
 
 -Dashboard Interaction <a href="https://github.com/pallavibodke/IPL-Dashboard/blob/main/IPL%20Dashboard.jpg">View Dashboard</a>
+
+##Dashboard
+<img width="926" height="519" alt="IPL Dashboard" src="https://github.com/user-attachments/assets/aab5f3b2-8fdf-4032-9d32-65f46b8bfe6f" />
+
+
+
+
