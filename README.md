@@ -105,8 +105,7 @@ The project uses publicly available IPL 2024 datasets.
 ```bash
 ipl-2024-data-analysis/
 │
-├── IPL_Dashboard.pbix
-├── IPL Dashboard.jpg
+├── IPL_Dashboard.jpg
 ├── README.md
 ├── matches.csv
 ├── deliveries.csv.zip
@@ -136,7 +135,7 @@ Before building the dashboard, the following preprocessing steps were performed:
 
 # 📊 Dashboard Preview
 
-![Dashboard Preview](IPL Dashboard.jpg)
+![Dashboard Preview](IPL_Dashboard.jpg)
 
 ---
 
